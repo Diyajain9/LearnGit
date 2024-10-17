@@ -1,0 +1,30 @@
+1. Data collection and organization
+2. Analysis-yes or no
+3. Visualization
+4. prediction
+
+Project-Change Health Care(CHC)
+App to help providers to get their patient treatment cost from insurance company
+
+patieni->doctors/clinic
+doctor->patients
+payers->providers
+Product owner/Scrum Master
+responsible for product success
+cares about user needs
+guide in correct direction
+own the product on behalf of owners
+good team player collaborate with the devlopment and the teamis high
+
+Sprints=Timeline split of project
+ providers and payers
+sign up(priority), sign in,Product list,History
+modules of project->sprint planning->story point estimation(creating user dashboard more story point)->manger will be assigned->Scrum team dev ,sm, po(Daily Scrum)->Sprint review->Sprint Retrospective
+
+bug life cycle
+
+Benefits of Agile
+
+Agile principles
+
+ 
